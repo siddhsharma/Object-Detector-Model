@@ -1,0 +1,1 @@
+This project demonstrates object detection using the YOLO V5 algorithm and is hosted on Streamlit. YOLO (You Only Look Once) is a popular real-time object detection algorithm that achieves high accuracy and fast processing speed.
